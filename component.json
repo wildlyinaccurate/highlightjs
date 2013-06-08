@@ -1,12 +1,12 @@
 {
   "name": "highlightjs-scss",
-  "repo": "components/highlightjs",
+  "repo": "components/highlightjs-scss",
   "version": "7.3.0",
   "main": "highlight.pack.js",
   "scripts": [
     "highlight.pack.js"
   ],
   "files": [
-    "styles/default.css"
+    "styles/_default.scss"
   ]
 }
